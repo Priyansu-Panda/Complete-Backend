@@ -1,5 +1,7 @@
-// app.js -> server ko create karna
+// Load environment variables first
+require('dotenv').config();
 
+// app.js -> server ko create karna
 const noteModel = require("./models/note.model")
 const express = require("express");
 
