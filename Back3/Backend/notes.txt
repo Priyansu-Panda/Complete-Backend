@@ -1,0 +1,10 @@
+/user-post
+    image
+    caption
+    submit
+
+
+/feed
+    {ALL POSTS}
+    -image
+    -caption

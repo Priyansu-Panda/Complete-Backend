@@ -1,0 +1,7 @@
+Validation - Checking the format of the data sent by the user {Password length, email format, etc}
+
+Verification - Verifying whetehr all the detials provided by the user are correct or not ? {OTP}
+
+Authentication - Identitfying the user who is sending the request {JWT Token} {session based and token based}
+
+Authoization - Ek user kya kya kar sakta hai {Role based access control} {Admin, User, Editor, etc}
